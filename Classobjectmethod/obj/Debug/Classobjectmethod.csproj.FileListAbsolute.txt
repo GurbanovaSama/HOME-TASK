@@ -1,0 +1,7 @@
+C:\Users\Sema Gurbanova\source\repos\Classobjectmethod\bin\Debug\Classobjectmethod.exe.config
+C:\Users\Sema Gurbanova\source\repos\Classobjectmethod\bin\Debug\Classobjectmethod.exe
+C:\Users\Sema Gurbanova\source\repos\Classobjectmethod\bin\Debug\Classobjectmethod.pdb
+C:\Users\Sema Gurbanova\source\repos\Classobjectmethod\obj\Debug\Classobjectmethod.csproj.AssemblyReference.cache
+C:\Users\Sema Gurbanova\source\repos\Classobjectmethod\obj\Debug\Classobjectmethod.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\Classobjectmethod\obj\Debug\Classobjectmethod.exe
+C:\Users\Sema Gurbanova\source\repos\Classobjectmethod\obj\Debug\Classobjectmethod.pdb
