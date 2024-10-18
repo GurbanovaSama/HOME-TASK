@@ -1,0 +1,7 @@
+C:\Users\Sema Gurbanova\source\repos\CustomStringMethods\bin\Debug\CustomStringMethods.exe.config
+C:\Users\Sema Gurbanova\source\repos\CustomStringMethods\bin\Debug\CustomStringMethods.exe
+C:\Users\Sema Gurbanova\source\repos\CustomStringMethods\bin\Debug\CustomStringMethods.pdb
+C:\Users\Sema Gurbanova\source\repos\CustomStringMethods\obj\Debug\CustomStringMethods.csproj.AssemblyReference.cache
+C:\Users\Sema Gurbanova\source\repos\CustomStringMethods\obj\Debug\CustomStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\CustomStringMethods\obj\Debug\CustomStringMethods.exe
+C:\Users\Sema Gurbanova\source\repos\CustomStringMethods\obj\Debug\CustomStringMethods.pdb
