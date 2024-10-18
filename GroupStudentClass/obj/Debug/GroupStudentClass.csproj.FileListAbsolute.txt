@@ -1,0 +1,7 @@
+C:\Users\Sema Gurbanova\source\repos\GroupStudentClass\bin\Debug\GroupStudentClass.exe.config
+C:\Users\Sema Gurbanova\source\repos\GroupStudentClass\bin\Debug\GroupStudentClass.exe
+C:\Users\Sema Gurbanova\source\repos\GroupStudentClass\bin\Debug\GroupStudentClass.pdb
+C:\Users\Sema Gurbanova\source\repos\GroupStudentClass\obj\Debug\GroupStudentClass.csproj.AssemblyReference.cache
+C:\Users\Sema Gurbanova\source\repos\GroupStudentClass\obj\Debug\GroupStudentClass.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\GroupStudentClass\obj\Debug\GroupStudentClass.exe
+C:\Users\Sema Gurbanova\source\repos\GroupStudentClass\obj\Debug\GroupStudentClass.pdb
