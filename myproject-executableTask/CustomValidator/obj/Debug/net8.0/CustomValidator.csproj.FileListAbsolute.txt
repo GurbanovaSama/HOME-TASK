@@ -1,0 +1,11 @@
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\bin\Debug\net8.0\CustomValidator.deps.json
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\bin\Debug\net8.0\CustomValidator.dll
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\bin\Debug\net8.0\CustomValidator.pdb
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\obj\Debug\net8.0\CustomValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\obj\Debug\net8.0\CustomValidator.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\obj\Debug\net8.0\CustomValidator.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\obj\Debug\net8.0\CustomValidator.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\obj\Debug\net8.0\CustomValidator.dll
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\obj\Debug\net8.0\refint\CustomValidator.dll
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\obj\Debug\net8.0\CustomValidator.pdb
+C:\Users\Sema Gurbanova\source\repos\myproject-executableTask\CustomValidator\obj\Debug\net8.0\ref\CustomValidator.dll

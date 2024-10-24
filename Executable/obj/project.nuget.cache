@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "NBbxZR4et70=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Sema Gurbanova\\Desktop\\Home-Task\\Executable\\Executable.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Sema Gurbanova\\Desktop\\Home-Task\\CustomValidator\\CustomValidator.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Sema Gurbanova\\Desktop\\Home-Task\\CustomValidator\\CustomValidator.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
