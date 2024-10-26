@@ -1,0 +1,14 @@
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.exe
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.deps.json
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.runtimeconfig.json
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.dll
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\bin\Debug\net8.0\ReflectionTask.pdb
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.dll
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\refint\ReflectionTask.dll
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.pdb
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ReflectionTask.genruntimeconfig.cache
+C:\Users\Sema Gurbanova\source\repos\ReflectionTask\ReflectionTask\obj\Debug\net8.0\ref\ReflectionTask.dll
