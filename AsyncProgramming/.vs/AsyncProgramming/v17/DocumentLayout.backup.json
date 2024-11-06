@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D251BD3-9D5F-4B0F-9DEA-19310E4E938D}|AsyncProgramming\\AsyncProgramming.csproj|c:\\users\\sema gurbanova\\source\\repos\\asyncprogramming\\asyncprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D251BD3-9D5F-4B0F-9DEA-19310E4E938D}|AsyncProgramming\\AsyncProgramming.csproj|solutionrelative:asyncprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D251BD3-9D5F-4B0F-9DEA-19310E4E938D}|AsyncProgramming\\AsyncProgramming.csproj|c:\\users\\sema gurbanova\\source\\repos\\asyncprogramming\\asyncprogramming\\data\\jsondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D251BD3-9D5F-4B0F-9DEA-19310E4E938D}|AsyncProgramming\\AsyncProgramming.csproj|solutionrelative:asyncprogramming\\data\\jsondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,10 +22,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -30,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jsonData.json",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AsyncProgramming\\AsyncProgramming\\Data\\jsonData.json",
+              "RelativeDocumentMoniker": "AsyncProgramming\\Data\\jsonData.json",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AsyncProgramming\\AsyncProgramming\\Data\\jsonData.json",
+              "RelativeToolTip": "AsyncProgramming\\Data\\jsonData.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T06:20:05.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AsyncProgramming\\AsyncProgramming\\Program.cs",
               "RelativeDocumentMoniker": "AsyncProgramming\\Program.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AsyncProgramming\\AsyncProgramming\\Program.cs*",
-              "RelativeToolTip": "AsyncProgramming\\Program.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowAwAAAA8AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AsyncProgramming\\AsyncProgramming\\Program.cs",
+              "RelativeToolTip": "AsyncProgramming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T16:56:00.6Z",
               "EditorCaption": ""
