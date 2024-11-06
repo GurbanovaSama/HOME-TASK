@@ -1,0 +1,17 @@
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\bin\Debug\net8.0\DirectoryFileTask.exe
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\bin\Debug\net8.0\DirectoryFileTask.deps.json
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\bin\Debug\net8.0\DirectoryFileTask.runtimeconfig.json
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\bin\Debug\net8.0\DirectoryFileTask.dll
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\bin\Debug\net8.0\DirectoryFileTask.pdb
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\DirectoryFileTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\DirectoryFileTask.AssemblyInfoInputs.cache
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\DirectoryFileTask.AssemblyInfo.cs
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\DirectoryFileTask.csproj.CoreCompileInputs.cache
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\DirectoryFileTask.dll
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\refint\DirectoryFileTask.dll
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\DirectoryFileTask.pdb
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\DirectoryFileTask.genruntimeconfig.cache
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\ref\DirectoryFileTask.dll
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\DirectoryFileTask.csproj.AssemblyReference.cache
+C:\Users\Sema Gurbanova\source\repos\DirectoryFileTask\DirectoryFileTask\obj\Debug\net8.0\Director.7BF6F0B1.Up2Date
