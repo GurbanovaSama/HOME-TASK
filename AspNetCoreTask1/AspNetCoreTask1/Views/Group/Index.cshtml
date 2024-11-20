@@ -1,0 +1,11 @@
+﻿@using AspNetCoreTask1.Models;
+@model List<Group>;
+
+
+
+@foreach (Group group in @Model)
+{
+	<p>@group.Id</p>
+	<p>@group.Name</p>
+	<p>@group.Description</p>
+}

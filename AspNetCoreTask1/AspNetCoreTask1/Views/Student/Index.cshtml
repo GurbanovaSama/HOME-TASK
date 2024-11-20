@@ -1,0 +1,11 @@
+﻿@using AspNetCoreTask1.Models;
+@model List<Student>;
+
+
+
+@foreach (Student student in @Model)
+{
+	<p>@student.Id</p>
+	<p>@student.Name</p>
+	<p>@student.Age</p>
+}

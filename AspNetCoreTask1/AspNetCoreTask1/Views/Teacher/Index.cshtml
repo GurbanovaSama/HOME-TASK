@@ -1,0 +1,9 @@
+﻿@using AspNetCoreTask1.Models;
+@model List<Teacher>
+
+@foreach(Teacher teacher in Model)
+{
+	<p>@teacher.Id</p>
+	<p>@teacher.Name</p>
+	<p>@teacher.Surname</p>
+}

@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|c:\\users\\sema gurbanova\\source\\repos\\aspnetcoretask1\\aspnetcoretask1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56284AB1-678D-4E04-B727-AC2758E48AE9}|AspNetCoreTask1\\AspNetCoreTask1.csproj|solutionrelative:aspnetcoretask1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AspNetCoreTask1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:19:09.662Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Models\\Teacher.cs",
+              "RelativeToolTip": "AspNetCoreTask1\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:02:52.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreTask1\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T04:03:36.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "AspNetCoreTask1\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:03:16.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreTask1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAA78K8cvrivwYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T03:14:06.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Models\\Student.cs",
+              "RelativeToolTip": "AspNetCoreTask1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:06:58.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "AspNetCoreTask1\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:45:39.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreTask1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T02:37:15.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Views\\Group\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Views\\Group\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Views\\Group\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreTask1\\Views\\Group\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T03:46:08.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Models\\Group.cs",
+              "RelativeToolTip": "AspNetCoreTask1\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:43:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreTask1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:59:23.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreTask1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\AspNetCoreTask1\\AspNetCoreTask1\\Program.cs",
+              "RelativeToolTip": "AspNetCoreTask1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:43:26.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
