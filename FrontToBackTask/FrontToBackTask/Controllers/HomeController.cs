@@ -1,10 +1,16 @@
-﻿using FrontToBackTask.Models;
+﻿using FrontToBackTask.DAL;
+using FrontToBackTask.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FrontToBackTask.Controllers
 {
     public class HomeController : Controller
     {
+        readonly AppDbContext _context;
+        public HomeController(AppDbContext appDbContext)
+        {
+            _context = appDbContext;    
+        }
         public IActionResult Index()
         {
             List<User> users = new List<User>()
@@ -17,8 +23,40 @@ namespace FrontToBackTask.Controllers
         }
         public IActionResult About()
         {
-            return View();
+            //Team team1 = new Team() 
+            //{ 
+            //    Name = "John Doe",
+            //    Role = "Business Development",
+            //    MainImageUrl = "team-01.jpg"
+            //};
+
+            //Team team2 = new Team()
+            //{
+            //    Name = "Jane Doe",
+            //    Role = "Media Development",
+            //    MainImageUrl = "team-02.jpg"
+            //};
+
+            //Team team3 = new Team()
+            //{
+            //    Name = "Sam",
+            //    Role = "Developer",
+            //    MainImageUrl = "team-03.jpg"
+            //};
+
+           
+            //_context.teams.Add(team1);
+            //_context.teams.Add(team2);
+            //_context.teams.Add(team3);
+
+            IEnumerable<Team> teams
+                =_context.teams.ToList();
+
+       
+
+            return View(teams);
         }
+
 
         public IActionResult Work()
         {

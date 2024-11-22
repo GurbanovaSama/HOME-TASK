@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\dal\\appcontactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\dal\\appcontactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\home\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\home\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Migrations\\AppContactDb\\20241122035138_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontToBackTask\\Migrations\\AppContactDb\\20241122035138_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\models\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\models\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Migrations\\20241122030449_CreatedTeamTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontToBackTask\\Migrations\\20241122030449_CreatedTeamTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|c:\\users\\sema gurbanova\\source\\repos\\fronttobacktask\\fronttobacktask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF0CD33-673C-46C6-AB1F-96CE85E42678}|FrontToBackTask\\FrontToBackTask.csproj|solutionrelative:fronttobacktask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,31 +58,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FrontToBackTask\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FrontToBackTask\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T18:21:10.465Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FrontToBackTask\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FrontToBackTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T18:19:08.842Z",
               "IsPinned": true,
@@ -86,15 +76,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontToBackTask\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FrontToBackTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAHkAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T18:19:37.117Z",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FrontToBackTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "FrontToBackTask\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:07:19.004Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Program.cs",
+              "RelativeDocumentMoniker": "FrontToBackTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Program.cs",
+              "RelativeToolTip": "FrontToBackTask\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:12:26.982Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -108,106 +112,118 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppContactDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\DAL\\AppContactDbContext.cs",
+              "RelativeDocumentMoniker": "FrontToBackTask\\DAL\\AppContactDbContext.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\DAL\\AppContactDbContext.cs",
+              "RelativeToolTip": "FrontToBackTask\\DAL\\AppContactDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:41:59.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Work.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Work.cshtml",
-              "RelativeDocumentMoniker": "FrontToBackTask\\Views\\Home\\Work.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Work.cshtml",
-              "RelativeToolTip": "FrontToBackTask\\Views\\Home\\Work.cshtml",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T03:52:10.458Z",
+              "Title": "ContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Models\\ContactForm.cs",
+              "RelativeDocumentMoniker": "FrontToBackTask\\Models\\ContactForm.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Models\\ContactForm.cs",
+              "RelativeToolTip": "FrontToBackTask\\Models\\ContactForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:22:45.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pricing.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Pricing.cshtml",
-              "RelativeDocumentMoniker": "FrontToBackTask\\Views\\Home\\Pricing.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Pricing.cshtml",
-              "RelativeToolTip": "FrontToBackTask\\Views\\Home\\Pricing.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T03:52:37.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "FrontToBackTask\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "FrontToBackTask\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAH4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T03:52:57.304Z",
+              "DocumentIndex": 1,
+              "Title": "20241122035138_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Migrations\\AppContactDb\\20241122035138_initialCreate.cs",
+              "RelativeDocumentMoniker": "FrontToBackTask\\Migrations\\AppContactDb\\20241122035138_initialCreate.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Migrations\\AppContactDb\\20241122035138_initialCreate.cs",
+              "RelativeToolTip": "FrontToBackTask\\Migrations\\AppContactDb\\20241122035138_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:51:38.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\appsettings.json",
+              "RelativeDocumentMoniker": "FrontToBackTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\appsettings.json",
+              "RelativeToolTip": "FrontToBackTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T02:40:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241122030449_CreatedTeamTable.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Migrations\\20241122030449_CreatedTeamTable.cs",
+              "RelativeDocumentMoniker": "FrontToBackTask\\Migrations\\20241122030449_CreatedTeamTable.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Migrations\\20241122030449_CreatedTeamTable.cs",
+              "RelativeToolTip": "FrontToBackTask\\Migrations\\20241122030449_CreatedTeamTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:04:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "FrontToBackTask\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Models\\Team.cs",
+              "RelativeToolTip": "FrontToBackTask\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:59:15.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "FrontToBackTask\\Views\\Home\\About.cshtml",
               "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "FrontToBackTask\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAALcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-21T02:57:27.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Program.cs",
-              "RelativeDocumentMoniker": "FrontToBackTask\\Program.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Program.cs",
-              "RelativeToolTip": "FrontToBackTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T18:12:26.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FrontToBackTask\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FrontToBackTask\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBackTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FrontToBackTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T03:39:56.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FrontToBackTask\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FrontToBackTask\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T03:39:11.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T20:20:56.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Models\\User.cs",
-              "RelativeDocumentMoniker": "FrontToBackTask\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Models\\User.cs",
-              "RelativeToolTip": "FrontToBackTask\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:01:39.302Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontToBackTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\source\\repos\\FrontToBackTask\\FrontToBackTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontToBackTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T20:19:41.674Z"
             }
           ]
         }
