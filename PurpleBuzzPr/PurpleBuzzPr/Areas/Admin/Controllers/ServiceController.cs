@@ -32,6 +32,7 @@ namespace PurpleBuzzPr.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+
         public IActionResult Create()
         {
             return View();
@@ -48,5 +49,33 @@ namespace PurpleBuzzPr.Areas.Admin.Controllers
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
+
+
+        public IActionResult Update(int? Id)
+        {
+            Service? service = _context.Services.Find(Id);
+            if(service is  null)
+            {
+                return NotFound("No such service");
+            }
+            return View(service);
+        }
+
+        [HttpPost]
+        public IActionResult Update(Service service)
+        {
+            Service? updatedService = _context.Services.AsNoTracking().FirstOrDefault(x => x.Id == service.Id);
+            if (updatedService is null)
+            {
+                return NotFound("No such service");
+            }
+
+            _context.Services.Update(service);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
+        }
+
+
     }
 }

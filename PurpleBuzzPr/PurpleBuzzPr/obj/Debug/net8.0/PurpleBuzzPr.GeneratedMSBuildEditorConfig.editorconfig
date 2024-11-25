@@ -40,8 +40,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Areas/Admin/Views/Service/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Areas/Admin/Views/Works/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29ya3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Areas/Admin/Views/Works/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29ya3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Areas/Admin/Views/Work/Create.cshtml]
@@ -50,6 +62,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Areas/Admin/Views/Work/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29ya1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Areas/Admin/Views/Work/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29ya1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Areas/Admin/Views/_ViewImports.cshtml]
@@ -82,6 +98,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Sema Gurbanova/Desktop/taskpurplebuzz/Ab205/PurpleBuzzPr/PurpleBuzzPr/Views/SingleWork/Index.cshtml]

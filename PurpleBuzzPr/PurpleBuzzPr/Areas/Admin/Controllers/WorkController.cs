@@ -55,5 +55,31 @@ namespace PurpleBuzzPr.Areas.Admin.Controllers
                 _context.SaveChanges();
                 return RedirectToAction(nameof(Index));
         }
+
+        public IActionResult Update(int? Id)
+        {
+            Work? work = _context.Works.Find(Id);
+            if(work is  null)
+            {
+                return NotFound("No such work");
+            }
+            return View(work);  
+        }
+
+        [HttpPost]
+        public IActionResult Update(Work work)
+        {
+            Work? updatedWork = _context.Works.AsNoTracking().FirstOrDefault(x => x.Id == work.Id);
+            if (updatedWork is null)
+            {
+                return NotFound("No such work");
+            }
+       
+            _context.Works.Update(work);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
+        }
+
     }
 }
