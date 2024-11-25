@@ -30,11 +30,8 @@
 
            
              
-                <select class="form-select" aria-label="Default select example">
-                    <option selected>Services</option>
-                    <option value="1">UI/UX</option>
-                    <option value="1">Marketing</option>
-                    <option value="1">Backend</option>
+                <select class="form-select" asp-for=ServiceId asp-items="new SelectList(ViewBag.Services, nameof(Service.Id), nameof(Service.Title))">
+                    <option selected>Services</option>                 
                 </select>
            
 

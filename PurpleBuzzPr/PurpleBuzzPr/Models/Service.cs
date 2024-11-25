@@ -4,7 +4,7 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace PurpleBuzzPr.Models
 {
-    public class Service //: BaseAuditableEntity
+    public class Service : BaseAuditableEntity
     {
         public int Id { get; set; }
         [MinLength(3), DisallowNull]

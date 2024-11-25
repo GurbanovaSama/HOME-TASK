@@ -4,7 +4,7 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace PurpleBuzzPr.Models
 {
-    public class Work //: BaseAuditableEntity
+    public class Work : BaseAuditableEntity
     {
         
         public int Id { get; set; }
@@ -14,7 +14,7 @@ namespace PurpleBuzzPr.Models
         [AllowNull]
         public string MainImageUrl { get; set; }
         public int ServiceId { get; set; }
-        public Service Service { get; set; }
+        public Service? Service { get; set; }
 
     }
 }

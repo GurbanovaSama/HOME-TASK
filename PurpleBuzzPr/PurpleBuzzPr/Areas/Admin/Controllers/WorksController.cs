@@ -31,7 +31,7 @@ namespace PurpleBuzzPr.Areas.Admin.Controllers
 
         public IActionResult Create()
         {
-            ViewBag.Services = new SelectList(_context.Services, "Id", "Title");
+            ViewBag.Services = _context.Services;
             return View();
         }
 
